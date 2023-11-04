@@ -1,0 +1,1 @@
+# Predictive-maintenance-of-gearbox-using-vibration-sensor-
